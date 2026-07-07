@@ -4,14 +4,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1f6feb,100:0d1117&height=220&section=header&text=Valence%20Mwigani&fontSize=42&fontColor=ffffff&animation=twinkling" alt="Valence Mwigani Banner" width="100%"/>
 
 <!-- Animated Typing Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;Computer+Engineering+Student;Building+Scalable+Web+Applications;Turning+Ideas+into+Digital+Products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;Tech+Enthusiast;Building+Scalable+Web+Applications;Turning+Ideas+into+Digital+Products)](https://git.io/typing-svg)
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-valencemwigani.tech-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://valencemwigani.tech)
 [![Email](https://img.shields.io/badge/Email-mwiganivalence@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mwiganivalence@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-PHENOMVALENCE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PHENOMVALENCE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Your_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-valence--mwigani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valence-mwigani-a8444031b)
 
 <br/>
 
@@ -23,15 +23,7 @@
 
 ## About Me
 
-```text
-👋 Hi, I'm Valence Mwigani
-🌍 From Tanzania
-🎓 Computer Engineering Student
-💻 Full Stack Developer
-🚀 Passionate about scalable systems & AI-powered solutions
-```
-
-I'm a **Full Stack Developer** and **Computer Engineering student** from Tanzania with a drive to build **scalable web applications**, **enterprise systems**, **AI-powered solutions**, and **digital products** that solve real-world problems.
+I'm a **Full Stack Developer** and **Tech Enthusiast** from Tanzania with a drive to build **scalable web applications**, **enterprise systems**, **AI-powered solutions**, and **digital products** that solve real-world problems.
 
 I thrive at the intersection of engineering and product — translating complex requirements into clean, maintainable software. I'm endlessly curious, committed to continuous learning, and motivated by problems that demand thoughtful architecture and disciplined execution.
 
@@ -41,13 +33,14 @@ I thrive at the intersection of engineering and product — translating complex 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PHENOMVALENCE&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&border_radius=10" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.demolab.com?user=PHENOMVALENCE&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&border_radius=10" height="165" alt="GitHub Streak"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHENOMVALENCE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&border_radius=10" height="165" alt="Top Languages"/>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=PHENOMVALENCE&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&border_radius=10)
+![GitHub Streak](https://streak-stats.demolab.com/?user=PHENOMVALENCE&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&border_radius=10)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PHENOMVALENCE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&border_radius=10)
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=PHENOMVALENCE&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15&bg_color=0d1117" alt="GitHub Trophies"/>
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PHENOMVALENCE&theme=github_dark)
+![Contribution Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PHENOMVALENCE&theme=github_dark)
 
 </div>
 
@@ -311,7 +304,7 @@ I find the most satisfaction in taking a messy real-world problem, breaking it i
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-valencemwigani.tech-58A6FF?style=for-the-badge)](https://valencemwigani.tech)
 [![Email](https://img.shields.io/badge/📧_Email-mwiganivalence@gmail.com-EA4335?style=for-the-badge)](mailto:mwiganivalence@gmail.com)
 [![GitHub](https://img.shields.io/badge/💻_GitHub-PHENOMVALENCE-181717?style=for-the-badge)](https://github.com/PHENOMVALENCE)
-[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-Add_Your_Link-0A66C2?style=for-the-badge)](#)
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-valence--mwigani-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/valence-mwigani-a8444031b)
 
 </div>
 
