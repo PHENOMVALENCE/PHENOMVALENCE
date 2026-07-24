@@ -33,14 +33,22 @@ I thrive at the intersection of engineering and product — translating complex 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=PHENOMVALENCE&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&border_radius=10)
-![GitHub Streak](https://streak-stats.demolab.com/?user=PHENOMVALENCE&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&border_radius=10)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PHENOMVALENCE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&border_radius=10)
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=PHENOMVALENCE&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&ring_color=58A6FF&border_radius=10" alt="GitHub Stats" height="170"/>
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHENOMVALENCE&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&border_radius=10" alt="Top Languages" height="170"/>
+</td>
+</tr>
+</table>
 
-<br/><br/>
+<img src="https://streak-stats.demolab.com/?user=PHENOMVALENCE&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E&border_radius=10" alt="GitHub Streak" width="495"/>
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PHENOMVALENCE&theme=github_dark)
-![Contribution Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PHENOMVALENCE&theme=github_dark)
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PHENOMVALENCE&bg_color=0d1117&color=58A6FF&line=1f6feb&point=58A6FF&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%"/>
 
 </div>
 
