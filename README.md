@@ -1,333 +1,599 @@
+<!--
+  ╔══════════════════════════════════════════════════════════════╗
+  ║  GitHub Profile README — Valence Mwigani                     ║
+  ║  Username: PHENOMVALENCE                                     ║
+  ║  Theme: GitHub Dark Blue (#58A6FF / #0d1117)                 ║
+  ║  Update guide: docs/PROFILE_GUIDE.md                         ║
+  ╚══════════════════════════════════════════════════════════════╝
+-->
+
 <div align="center">
 
-<!-- Banner — replace src with your own banner image -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1f6feb,100:0d1117&height=220&section=header&text=Valence%20Mwigani&fontSize=42&fontColor=ffffff&animation=twinkling" alt="Valence Mwigani Banner" width="100%"/>
+<!-- ════════════════════════════════════════════════════════════
+     SECTION 1 — HERO
+     ════════════════════════════════════════════════════════════ -->
 
-<!-- Animated Typing Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;Tech+Enthusiast;Building+Scalable+Web+Applications;Turning+Ideas+into+Digital+Products)](https://git.io/typing-svg)
+<img src="./assets/banner.png" alt="Valence Mwigani — Full Stack Software Engineer" width="100%" />
 
-<br/>
+<br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-valencemwigani.tech-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://valencemwigani.tech)
-[![Email](https://img.shields.io/badge/Email-mwiganivalence@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mwiganivalence@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-PHENOMVALENCE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PHENOMVALENCE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-valence--mwigani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valence-mwigani-a8444031b)
+<img src="./assets/profile.png" width="120" height="120" alt="Valence Mwigani" style="border-radius:50%;" />
 
-<br/>
+# Hi 👋 I'm **Valence Mwigani**
 
-![Profile Views](https://komarev.com/ghpvc/?username=PHENOMVALENCE&color=58a6ff&style=flat-square&label=Profile+Views)
+### Full Stack Software Engineer · Backend Developer · Technical Leader
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&width=720&height=80&lines=AI+%26+Machine+Learning+Enthusiast;Open+Source+Contributor+%7C+Business+Technology+Consultant;Building+scalable+systems+for+Africa)](https://git.io/typing-svg)
+
+<p>
+  Computer Engineering student and Full Stack Software Engineer based in
+  <b>Dar es Salaam, Tanzania</b> — designing scalable platforms, AI-powered products,
+  and digital systems that solve real-world problems.
+</p>
+
+<p>
+  <a href="https://valencemwigani.tech">
+    <img src="https://img.shields.io/badge/Portfolio-valencemwigani.tech-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/valence-mwigani-a8444031b">
+    <img src="https://img.shields.io/badge/LinkedIn-valence--mwigani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mwiganivalence@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mwiganivalence@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/PHENOMVALENCE">
+    <img src="https://img.shields.io/badge/GitHub-PHENOMVALENCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=PHENOMVALENCE&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/PHENOMVALENCE?label=Followers&style=flat-square&color=1f6feb&logo=github" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/stars/PHENOMVALENCE?affiliations=OWNER&style=flat-square&color=58a6ff&logo=github" alt="GitHub stars"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=PHENOMVALENCE.PHENOMVALENCE&left_color=%230d1117&right_color=%2358A6FF" alt="Visitors"/>
+</p>
 
 </div>
 
 ---
+
+<!-- ════════════════════════════════════════════════════════════
+     SECTION 2 — ABOUT ME
+     ════════════════════════════════════════════════════════════ -->
 
 ## About Me
 
-I'm a **Full Stack Developer** and **Tech Enthusiast** from Tanzania with a drive to build **scalable web applications**, **enterprise systems**, **AI-powered solutions**, and **digital products** that solve real-world problems.
-
-I thrive at the intersection of engineering and product — translating complex requirements into clean, maintainable software. I'm endlessly curious, committed to continuous learning, and motivated by problems that demand thoughtful architecture and disciplined execution.
-
----
-
-## GitHub Analytics
-
 <div align="center">
 
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=PHENOMVALENCE&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&ring_color=58A6FF&border_radius=10" alt="GitHub Stats" height="170"/>
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHENOMVALENCE&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&border_radius=10" alt="Top Languages" height="170"/>
-</td>
-</tr>
-</table>
+| | |
+|:---|:---|
+| 🎓 | **Computer Engineering Student** — Dar es Salaam Institute of Technology |
+| 💻 | **Full Stack Software Engineer** — Laravel, Next.js, Spring Boot, React |
+| ⚙️ | Passionate about **scalable systems**, clean architecture & production delivery |
+| 🤖 | Exploring **AI, Machine Learning, Cloud & DevOps** |
+| 🌍 | Building software that solves **real-world African problems** |
+| 🤝 | Open to **collaboration**, consulting & open-source contributions |
 
-<img src="https://streak-stats.demolab.com/?user=PHENOMVALENCE&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E&border_radius=10" alt="GitHub Streak" width="495"/>
+</div>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PHENOMVALENCE&bg_color=0d1117&color=58A6FF&line=1f6feb&point=58A6FF&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%"/>
+I'm a Full Stack Software Engineer and Technical Leader with **3+ years** of experience building B2B marketplaces, learning platforms, corporate systems, and AI-powered products. I work across the full lifecycle — requirements, architecture, backend APIs, frontend delivery, cloud deployment, and long-term maintenance.
+
+---
+
+<!-- ════════════════════════════════════════════════════════════
+     SECTION 3 — CURRENT FOCUS
+     ════════════════════════════════════════════════════════════ -->
+
+## Currently Working On
+
+<div align="center">
+
+| Status | Focus Area |
+|:------:|:-----------|
+| ✔ | **AI & Machine Learning** |
+| ✔ | **NLP** |
+| ✔ | **Computer Vision** |
+| ✔ | **React** |
+| ✔ | **Laravel** |
+| ✔ | **Spring Boot** |
+| ✔ | **Next.js** |
+| ✔ | **Mobile Money APIs** |
+| ✔ | **REST APIs** |
+| ✔ | **Android Development** |
 
 </div>
 
 ---
 
+<!-- ════════════════════════════════════════════════════════════
+     SECTION 4 — TECH STACK
+     ════════════════════════════════════════════════════════════ -->
+
 ## Tech Stack
 
+<details open>
+<summary><b>Languages</b></summary>
+<br/>
 <div align="center">
 
-### Backend
-
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-58A6FF?style=for-the-badge&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Frontend
+</div>
+</details>
+
+<details open>
+<summary><b>Frontend</b></summary>
+<br/>
+<div align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Languages
+</div>
+</details>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<details open>
+<summary><b>Backend</b></summary>
+<br/>
+<div align="center">
 
-### Database
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-58A6FF?style=for-the-badge&logo=fastapi&logoColor=white)
+
+</div>
+</details>
+
+<details open>
+<summary><b>Databases</b></summary>
+<br/>
+<div align="center">
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Tools
+</div>
+</details>
+
+<details open>
+<summary><b>AI / ML</b></summary>
+<br/>
+<div align="center">
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+</div>
+</details>
+
+<details open>
+<summary><b>Tools</b></summary>
+<br/>
+<div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
+</details>
 
-<details>
-<summary><b>View Full Stack Breakdown</b></summary>
-
+<details open>
+<summary><b>Cloud</b></summary>
 <br/>
+<div align="center">
 
-| Category | Technologies |
-| :--- | :--- |
-| **Backend** | PHP, Laravel, Java, Spring Boot, REST APIs |
-| **Frontend** | React, Next.js, Vanilla JavaScript, HTML5, CSS3, Bootstrap |
-| **Languages** | PHP, Java, JavaScript, Python |
-| **Database** | MySQL, PostgreSQL |
-| **Tools** | Git, GitHub, Postman, VS Code, IntelliJ IDEA, Android Studio, Jupyter Notebook |
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+</div>
 </details>
 
 ---
 
+<!-- ════════════════════════════════════════════════════════════
+     SECTION 5 — FEATURED PROJECTS
+     Replace placeholders in assets/project-images/ with real screenshots.
+     Update live demo / repo links below as needed.
+     ════════════════════════════════════════════════════════════ -->
+
 ## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### HANZO B2B Marketplace
-
-Multi-vendor B2B marketplace platform with dedicated dashboards for buyers, factories, and administrators — featuring product management, order workflows, analytics, and multi-currency support.
-
-<br/>
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-<br/>
-
-**Highlights:** Buyer Dashboard · Factory Dashboard · Admin Dashboard · Product & Order Management · Analytics · Multi-currency
-
-</td>
-<td width="50%" valign="top">
-
-### CrossLife
-
-Church management and learning platform combining community operations with a full learning management system for courses, certificates, and events.
-
-<br/>
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-
-<br/>
-
-**Highlights:** Church Management · LMS · Online Courses · Certificates · Events · CMS
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Charged Africa
-
-Digital news platform built for modern content publishing with integrated CMS, newsletter distribution, SEO optimization, and audience analytics.
-
-<br/>
-
-**Highlights:** Digital News · CMS · Newsletter · SEO · Analytics
-
-</td>
-<td width="50%" valign="top">
-
-### Proma Africa
-
-Real estate and investment platform designed to connect property opportunities with investors through a streamlined digital experience.
-
-<br/>
-
-**Highlights:** Real Estate · Investment Platform
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" colspan="2">
-
-### AI Household Electricity Consumption Prediction
-
-Machine learning project that analyzes household electricity usage patterns to predict consumption — built with Python data science tooling and Jupyter Notebook workflows.
-
-<br/>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-<br/>
-
-**Highlights:** Machine Learning · Data Analysis · Predictive Modeling
-
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="./assets/project-images/hanzo-marketplace.png" alt="Hanzo Marketplace" width="100%"/>
+      <h3>Hanzo Marketplace</h3>
+      <p align="left">
+        Privacy-focused B2B marketplace connecting East African buyers with verified Chinese factories — role-based dashboards, product catalogs, order workflows, analytics, and multi-currency support.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+        <img src="https://img.shields.io/badge/REST_APIs-58A6FF?style=flat-square" alt="REST APIs"/>
+      </p>
+      <p>
+        <a href="https://valencemwigani.tech"><img src="https://img.shields.io/badge/Live_Demo-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/></a>
+        <a href="https://github.com/PHENOMVALENCE"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+      </p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="./assets/project-images/crosslife-lms.png" alt="CrossLife LMS" width="100%"/>
+      <h3>CrossLife LMS</h3>
+      <p align="left">
+        Church management and learning platform combining community operations with a full LMS — courses, certificates, events, ministries, materials, and administration.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+        <img src="https://img.shields.io/badge/PHPMailer-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="PHPMailer"/>
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+      </p>
+      <p>
+        <a href="https://valencemwigani.tech"><img src="https://img.shields.io/badge/Live_Demo-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/></a>
+        <a href="https://github.com/PHENOMVALENCE/Learning-Management-System"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="./assets/project-images/digital-town-square.png" alt="Digital Town Square" width="100%"/>
+      <h3>Digital Town Square</h3>
+      <p align="left">
+        Community-driven digital platform for civic engagement, local information sharing, and public discourse — built to strengthen digital participation across African communities.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+      </p>
+      <p>
+        <a href="https://valencemwigani.tech"><img src="https://img.shields.io/badge/Live_Demo-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/></a>
+        <a href="https://github.com/PHENOMVALENCE"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+      </p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="./assets/project-images/bossify-academy.png" alt="Bossify Academy" width="100%"/>
+      <h3>Bossify Academy</h3>
+      <p align="left">
+        Training and registration platform with participant onboarding, payment verification, SMS notifications, and admin workflows for academy operations.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+        <img src="https://img.shields.io/badge/Payments-00C853?style=flat-square&logo=cashapp&logoColor=white" alt="Payments"/>
+        <img src="https://img.shields.io/badge/SMS_API-FF6C37?style=flat-square&logo=twilio&logoColor=white" alt="SMS API"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+      </p>
+      <p>
+        <a href="https://valencemwigani.tech"><img src="https://img.shields.io/badge/Live_Demo-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/></a>
+        <a href="https://github.com/PHENOMVALENCE"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="./assets/project-images/m-grid.png" alt="M Grid" width="100%"/>
+      <h3>M Grid</h3>
+      <p align="left">
+        Smart-grid oriented web application exploring energy monitoring, grid insights, and data-driven interfaces for modern electricity infrastructure.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+      </p>
+      <p>
+        <a href="https://github.com/PHENOMVALENCE/m-grid"><img src="https://img.shields.io/badge/Live_Demo-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/></a>
+        <a href="https://github.com/PHENOMVALENCE/m-grid"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+      </p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="./assets/project-images/digital-economy-africa.png" alt="Digital Economy Africa" width="100%"/>
+      <h3>Digital Economy Africa</h3>
+      <p align="left">
+        Organizational platform for digital economy initiatives — research, news, events, galleries, and stakeholder engagement with technical SEO and responsive delivery.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+        <img src="https://img.shields.io/badge/SEO-4285F4?style=flat-square&logo=googlesearchconsole&logoColor=white" alt="SEO"/>
+      </p>
+      <p>
+        <a href="https://valencemwigani.tech"><img src="https://img.shields.io/badge/Live_Demo-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/></a>
+        <a href="https://github.com/PHENOMVALENCE"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top" align="center">
+      <img src="./assets/project-images/portfolio-website.png" alt="Portfolio Website" width="60%"/>
+      <h3>Portfolio Website</h3>
+      <p align="center" style="max-width:720px;margin:0 auto;">
+        Personal brand site showcasing engineering work, leadership experience, services, and selected platforms — optimized for performance, SEO, and professional discovery.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+      </p>
+      <p>
+        <a href="https://valencemwigani.tech"><img src="https://img.shields.io/badge/Live_Demo-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/></a>
+        <a href="https://github.com/PHENOMVALENCE/Vince-Portfolio"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
 
-## Currently Working On
+<!-- ════════════════════════════════════════════════════════════
+     SECTION 6 — GITHUB STATS
+     Theme colors: bg=0d1117, accent=58A6FF
+     ════════════════════════════════════════════════════════════ -->
 
-```text
-🔨 Refining full-stack architecture across Laravel and Next.js projects
-🧠 Exploring AI and machine learning applications in real-world systems
-☁️  Deepening knowledge in cloud computing and software architecture
-📱 Expanding skills in mobile development
-```
-
----
-
-## Current Focus
+## GitHub Stats
 
 <div align="center">
 
-![AI](https://img.shields.io/badge/Artificial_Intelligence-58A6FF?style=for-the-badge&logo=openai&logoColor=white)
-![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Architecture](https://img.shields.io/badge/Software_Architecture-8B5CF6?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
-![Mobile](https://img.shields.io/badge/Mobile_Development-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=PHENOMVALENCE&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&ring_color=58A6FF&border_radius=10" alt="GitHub Stats" height="180"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHENOMVALENCE&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&border_radius=10" alt="Top Languages" height="180"/>
+    </td>
+  </tr>
+</table>
+
+<img src="https://streak-stats.demolab.com?user=PHENOMVALENCE&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E&border_radius=10" alt="Contribution Streak" width="495"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PHENOMVALENCE&bg_color=0d1117&color=58A6FF&line=1f6feb&point=58A6FF&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" width="100%"/>
+
+<br/><br/>
+
+<!-- Contribution Snake — generated by .github/workflows/snake.yml -->
+<img src="https://raw.githubusercontent.com/PHENOMVALENCE/PHENOMVALENCE/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
+
+<br/><br/>
+
+<!-- Productivity metrics -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PHENOMVALENCE&theme=github_dark" height="180" alt="Productivity Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PHENOMVALENCE&theme=github_dark&utcOffset=3" height="180" alt="Productive Time"/>
 
 </div>
 
 ---
 
-## Interests
+<!-- ════════════════════════════════════════════════════════════
+     SECTION 7 — AI & MACHINE LEARNING
+     ════════════════════════════════════════════════════════════ -->
+
+## AI & Machine Learning
 
 <div align="center">
 
-![Full Stack](https://img.shields.io/badge/Full_Stack_Development-58A6FF?style=flat-square)
-![AI](https://img.shields.io/badge/Artificial_Intelligence-58A6FF?style=flat-square)
-![Enterprise](https://img.shields.io/badge/Enterprise_Software-58A6FF?style=flat-square)
-![FinTech](https://img.shields.io/badge/FinTech-58A6FF?style=flat-square)
-![Cloud](https://img.shields.io/badge/Cloud_Computing-58A6FF?style=flat-square)
-![Open Source](https://img.shields.io/badge/Open_Source-58A6FF?style=flat-square)
-![Digital Transformation](https://img.shields.io/badge/Digital_Transformation-58A6FF?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-58A6FF?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
+
+<br/>
+
+Applied AI work spanning NLP, computer vision, and predictive modeling:
+
+| Project | Domain | Focus |
+|:--------|:-------|:------|
+| **News Category Classification** | NLP | Multi-class text classification for news content |
+| **Spam Detection** | NLP | Classical & modern ML for message filtering |
+| **Face Emotion Recognition** | Computer Vision | Facial expression classification pipelines |
+| **Crop Recommendation** | ML / AgriTech | Data-driven crop selection models |
+| **Electricity Consumption Prediction** | Predictive ML | Household usage forecasting & analysis |
+
+<p align="center">
+  <a href="https://github.com/PHENOMVALENCE/ElectricityConsumption">
+    <img src="https://img.shields.io/badge/Electricity_Consumption-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Electricity repo"/>
+  </a>
+  <a href="https://github.com/PHENOMVALENCE/Facial-Emotion-Recognition">
+    <img src="https://img.shields.io/badge/Facial_Emotion_Recognition-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="FER repo"/>
+  </a>
+</p>
+
+---
+
+<!-- ════════════════════════════════════════════════════════════
+     SECTION 8 — EXPERIENCE
+     ════════════════════════════════════════════════════════════ -->
+
+## Experience
+
+<table>
+  <tr>
+    <td width="28%"><b>Sparkcraft Consulting</b></td>
+    <td width="28%"><b>Software Engineer</b></td>
+    <td width="44%"><b>2025 – Present</b></td>
+  </tr>
+  <tr>
+    <td colspan="3">
+      Lead full-stack delivery of consulting platforms and digital products for African markets. Architected ChargedAfrica (CMS, subscribers, automated email). Own SEO, deployment, and ongoing product performance.
+    </td>
+  </tr>
+  <tr>
+    <td><b>Proma Africa</b></td>
+    <td><b>Lead Web Developer</b></td>
+    <td><b>Mar 2025 – Present</b></td>
+  </tr>
+  <tr>
+    <td colspan="3">
+      Engineer the corporate property platform and PHP/MySQL backend for listings, inquiries, and contact management. Drive responsive delivery, performance, technical SEO, and maintenance.
+    </td>
+  </tr>
+  <tr>
+    <td><b>Stanbic Bank Tanzania</b></td>
+    <td><b>Software Developer — Field Training</b></td>
+    <td><b>Aug 2025 – Oct 2025</b></td>
+  </tr>
+  <tr>
+    <td colspan="3">
+      Built a Documentation Management Application (Java + Bootstrap) in the Tech & Innovation function. Applied enterprise practices in a regulated banking environment with version-controlled collaboration.
+    </td>
+  </tr>
+  <tr>
+    <td><b>AIESEC in Tanzania</b></td>
+    <td><b>Project Lead — Youth to Business Forum 2026</b></td>
+    <td><b>2026</b></td>
+  </tr>
+  <tr>
+    <td colspan="3">
+      Led end-to-end planning and execution of a flagship forum convening innovators, founders, CEOs, policymakers, and investors — spanning partnerships, logistics, program design, and operations.
+    </td>
+  </tr>
+  <tr>
+    <td><b>AIESEC in IFM</b></td>
+    <td><b>Head of Business Development & Engagement</b></td>
+    <td><b>Feb 2026 – Present</b></td>
+  </tr>
+  <tr>
+    <td colspan="3">
+      Direct partnership strategy across corporates, government, NGOs, and ecosystem partners. Drive sponsorship and programs including Smart Dada 2026 and Youth Financial Literacy (455+ registrations across 7 universities).
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ════════════════════════════════════════════════════════════
+     SECTION 9 — CERTIFICATIONS
+     Placeholder cards — replace with real cert links when ready.
+     ════════════════════════════════════════════════════════════ -->
+
+## Certifications
+
+<div align="center">
+
+| Provider | Focus | Status |
+|:--------:|:------|:------:|
+| ![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white) | Cloud · Data · AI | 🔜 Upcoming |
+| ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) | Networking (CCNA foundation) | ✅ In Progress |
+| ![Meta](https://img.shields.io/badge/Meta-0668E1?style=for-the-badge&logo=meta&logoColor=white) | Frontend · Full Stack | 🔜 Upcoming |
+| ![Microsoft](https://img.shields.io/badge/Microsoft-737373?style=for-the-badge&logo=microsoft&logoColor=white) | Azure · Developer | 🔜 Upcoming |
+| ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) | Databases · Java | 🔜 Upcoming |
+| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) | Cloud Practitioner · Solutions | 🔜 Upcoming |
+
+</div>
+
+> Add certificate links in `docs/PROFILE_GUIDE.md` when earned — swap 🔜 for ✅ and link the credential URL.
+
+---
+
+<!-- ════════════════════════════════════════════════════════════
+     SECTION 10 — CONNECT
+     ════════════════════════════════════════════════════════════ -->
+
+## Connect
+
+<div align="center">
+
+<a href="https://valencemwigani.tech">
+  <img src="https://img.shields.io/badge/Portfolio-valencemwigani.tech-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/valence-mwigani-a8444031b">
+  <img src="https://img.shields.io/badge/LinkedIn-valence--mwigani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:mwiganivalence@gmail.com">
+  <img src="https://img.shields.io/badge/Email-mwiganivalence@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/PHENOMVALENCE">
+  <img src="https://img.shields.io/badge/GitHub-PHENOMVALENCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://twitter.com/">
+  <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X"/>
+</a>
+<a href="https://instagram.com/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<br/><br/>
+
+📍 Dar es Salaam, Tanzania &nbsp;·&nbsp; 📞 +255 753 775 184 &nbsp;·&nbsp; ✉️ mwiganivalence@gmail.com
 
 </div>
 
 ---
 
-## Contribution Graph
+<!-- ════════════════════════════════════════════════════════════
+     SECTION 11 — QUOTE
+     ════════════════════════════════════════════════════════════ -->
+
+## Quote
 
 <div align="center">
 
-<!-- Replace with your snake animation output after setting up the workflow below -->
-<!-- Example: <img src="https://raw.githubusercontent.com/PHENOMVALENCE/PHENOMVALENCE/output/github-contribution-grid-snake.svg" alt="Contribution Snake" /> -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=80&section=header&text=Contribution+Snake+Animation&fontSize=18&fontColor=58A6FF" alt="Contribution Snake Placeholder"/>
-
-</div>
-
-<details>
-<summary><b>Setup Contribution Snake Animation</b></summary>
-
-<br/>
-
-1. Create `.github/workflows/snake.yml` in this repository
-2. Use the [github-contribution-grid-snake](https://github.com/Platane/snake) workflow
-3. Uncomment the snake image above and point it to your generated SVG output
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/animated-snake-game@master
-        with:
-          github_user_name: PHENOMVALENCE
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
----
-
-## Fun Fact
-
-<details>
-<summary><b>Click to reveal</b></summary>
-
-<br/>
-
-I find the most satisfaction in taking a messy real-world problem, breaking it into clean abstractions, and shipping software that people actually use — whether that's a B2B marketplace, a church LMS, or a machine learning model predicting electricity consumption.
-
-</details>
-
----
-
-## Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-valencemwigani.tech-58A6FF?style=for-the-badge)](https://valencemwigani.tech)
-[![Email](https://img.shields.io/badge/📧_Email-mwiganivalence@gmail.com-EA4335?style=for-the-badge)](mailto:mwiganivalence@gmail.com)
-[![GitHub](https://img.shields.io/badge/💻_GitHub-PHENOMVALENCE-181717?style=for-the-badge)](https://github.com/PHENOMVALENCE)
-[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-valence--mwigani-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/valence-mwigani-a8444031b)
+### *"Code is the closest thing we have to a superpower — use it to build systems that outlast you."*
 
 </div>
 
 ---
 
+<!-- ════════════════════════════════════════════════════════════
+     SECTION 12 — SUPPORT
+     ════════════════════════════════════════════════════════════ -->
+
+## Let's Collaborate
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=100&section=footer" alt="Footer" width="100%"/>
+**Open to open-source contributions, engineering collaborations, and consulting opportunities.**
+
+Whether you're building a marketplace, an LMS, an AI product, or a corporate platform — let's ship something meaningful.
 
 <br/>
 
-*"The best way to predict the future is to build it."*
+<a href="mailto:mwiganivalence@gmail.com">
+  <img src="https://img.shields.io/badge/Contact_Me-58A6FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me"/>
+</a>
+<a href="https://valencemwigani.tech">
+  <img src="https://img.shields.io/badge/View_Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=58A6FF" alt="Portfolio"/>
+</a>
+<a href="https://github.com/PHENOMVALENCE?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
+</a>
 
-<br/>
+<br/><br/>
 
-**Thanks for visiting — let's build something meaningful together.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58A6FF&height=120&section=footer" width="100%" alt="Footer"/>
+
+**Thanks for visiting — let's build the future, one commit at a time.**
 
 </div>
