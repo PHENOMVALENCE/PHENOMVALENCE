@@ -15,34 +15,32 @@
 
 <img src="./assets/banner.png" alt="Valence Mwigani — Software Engineer & AI Developer" width="100%" />
 
-<br/><br/>
+<h1>Hi 👋 I'm Valence Mwigani</h1>
 
-<img src="./assets/profile.png" width="110" height="110" alt="Valence Mwigani" />
-
-# Hi 👋 I'm **Valence Mwigani**
-
-### Software Engineer · AI & Machine Learning Developer
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=90&lines=Full+Stack+Software+Engineer;AI+%26+Machine+Learning+Developer;Backend+Engineer+%7C+REST+API+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&height=32&lines=Full+Stack+Software+Engineer;AI+%26+Machine+Learning+Developer;Backend+Engineer+%7C+REST+API+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
 
 <p>
-  Building <b>scalable web applications</b>, <b>production APIs</b>, and
-  <b>AI-powered systems</b> — from Laravel & Next.js platforms to NLP and computer vision models.
+  Building scalable web apps, production APIs, and AI systems —
+  Laravel · Next.js · NLP · Computer Vision
 </p>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=PHENOMVALENCE&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Profile views"/>
+  &nbsp;
   <img src="https://img.shields.io/github/followers/PHENOMVALENCE?label=Followers&style=flat-square&color=1f6feb&logo=github" alt="Followers"/>
+  &nbsp;
   <img src="https://img.shields.io/badge/Public%20Repos-39+-58A6FF?style=flat-square&logo=github" alt="Public repositories"/>
-  <img src="https://img.shields.io/badge/Total%20Commits-Active-3FB950?style=flat-square&logo=git" alt="Total commits"/>
-  <img src="https://img.shields.io/badge/Years%20of%20Coding-3%2B-A371F7?style=flat-square&logo=visualstudiocode" alt="Years of coding"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Commits-Active-3FB950?style=flat-square&logo=git" alt="Commits"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Coding-3%2B%20Years-A371F7?style=flat-square" alt="Years of coding"/>
 </p>
 
 <p>
-  <a href="https://valencemwigani.tech"><img src="https://img.shields.io/badge/Portfolio-valencemwigani.tech-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://github.com/PHENOMVALENCE"><img src="https://img.shields.io/badge/GitHub-PHENOMVALENCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/valence-mwigani-a8444031b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:mwiganivalence@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://valencemwigani.tech"><img src="https://img.shields.io/badge/Portfolio-valencemwigani.tech-0d1117?style=flat-square&logo=vercel&logoColor=58A6FF" alt="Portfolio"/></a>
+  <a href="https://github.com/PHENOMVALENCE"><img src="https://img.shields.io/badge/GitHub-PHENOMVALENCE-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/valence-mwigani-a8444031b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mwiganivalence@gmail.com"><img src="https://img.shields.io/badge/Email-mwiganivalence@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 </div>
