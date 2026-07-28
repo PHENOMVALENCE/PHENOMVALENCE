@@ -1,50 +1,59 @@
 # Changelog
 
-All notable changes to the **PHENOMVALENCE** GitHub profile README.
+Notable changes to the **PHENOMVALENCE** GitHub profile README.
+
+---
+
+## [3.0.0] — 2026-07-28
+
+### Redesign — Software Engineer & AI Developer Focus
+
+Complete repositioning of the profile as an active **Software Engineer** and **AI / Machine Learning Developer**.
+
+#### Positioning
+
+- Communicates full-stack development, backend engineering, NLP, computer vision, REST APIs, and open-source work
+- Removed business development, AIESEC, leadership/org roles, M Grid, and other non-development content
+
+#### Sections
+
+1. Hero — typing SVG, engineering roles, views / followers / repos / commits / years coding  
+2. About Me — Computer Engineering + full-stack + AI focus  
+3. Currently Building — technical focus list  
+4. Tech Stack — Programming, Frontend, Backend, AI, Databases, Tools, Cloud  
+5. Featured Software Projects — Hanzo, CrossLife LMS, Digital Town Square, Bossify Academy  
+6. AI & Machine Learning — News Classification, Face Emotion, Electricity Prediction + future AI  
+7. Development Activity — graph, snake, calendar, streak, languages, coding stats  
+8. Development Milestones — engineering timeline  
+9. Commit History — heatmap, streaks, repo activity links  
+10. GitHub Statistics — stats dashboard  
+11. Connect — Portfolio, GitHub, LinkedIn, Email  
+12. Quote — engineering consistency quote  
+
+#### Assets
+
+```text
+assets/
+  banner.png
+  profile.png
+  projects/
+  ai/
+  icons/
+```
+
+#### Docs
+
+- Rewrote `docs/PROFILE_GUIDE.md` (projects, AI projects, future repos, stats, theme)
+- Updated `assets/README.md`
 
 ---
 
 ## [2.0.0] — 2026-07-28
 
-### Redesign — Premium Profile Overhaul
-
-Complete rewrite of the profile README for recruiters, clients, and developers.
-
-#### Added
-
-- **12-section premium layout** with clear visual hierarchy and HTML section markers
-- **Hero** with local banner, avatar, animated typing SVG, multi-role positioning, and counters (views, followers, stars, visitors)
-- **About Me** icon table emphasizing Computer Engineering, full-stack work, AI/ML, African impact, and collaboration
-- **Currently Working On** focus roadmap (AI/ML, NLP, CV, React, Laravel, Spring Boot, Next.js, Mobile Money, REST, Android)
-- **Tech Stack** reorganized into Languages, Frontend, Backend, Databases, AI/ML, Tools, Cloud with consistent `for-the-badge` shields
-- **Featured Projects** card grid with screenshot placeholders, tech badges, Live Demo, and GitHub links:
-  - Hanzo Marketplace, CrossLife LMS, Digital Town Square, Bossify Academy, M Grid, Digital Economy Africa, Portfolio Website
-- **GitHub Stats dashboard** — stats, top languages, streak, activity graph, contribution snake, productivity cards
-- **AI & Machine Learning** section for NLP / CV / predictive projects
-- **Experience** table — Sparkcraft Consulting, Proma Africa, Stanbic Bank Tanzania, AIESEC in Tanzania, AIESEC in IFM
-- **Certifications** roadmap cards — Google, Cisco, Meta, Microsoft, Oracle, AWS
-- **Connect** social badge row + local contact details
-- **Quote** and **Support / Collaborate** CTA footer
-- `assets/` folder (`banner.png`, `profile.png`, `project-images/`)
-- `docs/PROFILE_GUIDE.md` — section docs, project cards, stats, colors/banners
-- `.github/workflows/snake.yml` — daily contribution snake generator
-
-#### Changed
-
-- Replaced simple capsule-only hero with custom banner + typing multi-line identity
-- Removed duplicate / overlapping interest badge clusters
-- Unified badge sizing (`for-the-badge` for stacks, `flat-square` inside project cards)
-- Tightened spacing and reduced empty white space via tables and grouped sections
-- Aligned theme tokens to GitHub dark blue (`#58A6FF` / `#0d1117`)
-
-#### Removed
-
-- Redundant “Interests” and duplicate “Current Focus” badge strips
-- Inline snake setup instructions from the README (moved to workflow + guide)
-- Template-style filler that diluted expertise signaling
+Premium multi-section profile (broader personal brand including experience & certifications). Superseded by 3.0.0 engineer/AI focus.
 
 ---
 
 ## [1.x] — Prior
 
-Earlier iterations (capsule wave banner, basic stats, partial tech badges, fewer projects). See git history (`ReadMe`, `ReadMe 2`, `stats revision`).
+Early capsule banner / basic stats iterations. See git history.

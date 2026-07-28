@@ -1,248 +1,187 @@
-# GitHub Profile README — Maintenance Guide
+# GitHub Profile Guide — Software Engineer & AI Developer
 
-Complete reference for updating the **PHENOMVALENCE** profile README. Designed so you can refresh content without redesigning the layout.
-
----
-
-## Table of contents
-
-1. [Section overview](#1-section-overview)
-2. [Updating project cards](#2-updating-project-cards)
-3. [Updating GitHub stats](#3-updating-github-stats)
-4. [Changing colors and banners](#4-changing-colors-and-banners)
-5. [Social links & contact](#5-social-links--contact)
-6. [Certifications](#6-certifications)
-7. [Contribution snake](#7-contribution-snake)
-8. [File map](#8-file-map)
+Maintenance guide for the **PHENOMVALENCE** profile README. Positioning: active Software Engineer and AI / ML Developer — no management or non-dev content.
 
 ---
 
 ## 1. Section overview
 
-| # | Section | Purpose | How to edit |
-|---|---------|---------|-------------|
-| 1 | **Hero** | Identity, typing SVG, counters | Top of `README.md` — banner, title, typing lines, badges |
-| 2 | **About Me** | Positioning for recruiters | Table rows + short paragraph |
-| 3 | **Currently Working On** | Live focus roadmap | Focus table checkmarks |
-| 4 | **Tech Stack** | Categorized shields | Add/remove badge lines inside each `<details>` block |
-| 5 | **Featured Projects** | Portfolio cards | Table cells + `assets/project-images/` |
-| 6 | **GitHub Stats** | Metrics dashboard | Query params on stats URLs |
-| 7 | **AI & ML** | Domain specialization | Project table + skill badges |
-| 8 | **Experience** | Career narrative | Experience table rows |
-| 9 | **Certifications** | Credential roadmap | Status column + links |
-| 10 | **Connect** | Social discovery | Shield links |
-| 11 | **Quote** | Soft close | Single italic line |
-| 12 | **Support** | CTA / collaboration | Contact buttons |
+| # | Section | What it communicates | Edit location |
+|---|---------|----------------------|---------------|
+| 1 | **Hero** | Identity, roles, activity counters | Top of `README.md` |
+| 2 | **About Me** | Engineering + AI positioning | About table + paragraph |
+| 3 | **Currently Building** | Active technical focus | Focus table |
+| 4 | **Tech Stack** | Skills by category | Shield groups in `<details>` |
+| 5 | **Featured Software Projects** | Production web systems | Project table + `assets/projects/` |
+| 6 | **AI & Machine Learning** | NLP / CV / regression work | AI table + `assets/ai/` |
+| 7 | **Development Activity** | Graphs, snake, streak, languages | Stats image URLs |
+| 8 | **Development Milestones** | Engineering timeline | ASCII timeline + checklist |
+| 9 | **Commit History** | Consistency & shipping habit | Heatmap, streak, repo links |
+| 10 | **GitHub Statistics** | Aggregate metrics | Stats cards + badges |
+| 11 | **Connect** | Professional contact | Shield links |
+| 12 | **Quote** | Soft close | Quote line |
 
-HTML comments (`<!-- SECTION N — ... -->`) mark each block in `README.md`.
+HTML comments (`<!-- SECTION N -->`) mark each block.
+
+**Do not add:** business development, AIESEC, leadership/org roles, or non-engineering projects.
 
 ---
 
-## 2. Updating project cards
+## 2. Updating project cards (software)
 
 ### Replace a screenshot
 
-1. Export a screenshot at **~800×420** (PNG preferred).
-2. Overwrite the matching file in `assets/project-images/` **keeping the same filename**.
-3. Commit and push. No README edit required if the filename is unchanged.
+1. Capture ~**800×420** PNG.
+2. Overwrite the file in `assets/projects/` (same name).
+3. Push — no README change needed.
 
-| Project | Asset file |
-|---------|------------|
-| Hanzo Marketplace | `hanzo-marketplace.png` |
-| CrossLife LMS | `crosslife-lms.png` |
-| Digital Town Square | `digital-town-square.png` |
-| Bossify Academy | `bossify-academy.png` |
-| M Grid | `m-grid.png` |
-| Digital Economy Africa | `digital-economy-africa.png` |
-| Portfolio Website | `portfolio-website.png` |
+| Project | File |
+|---------|------|
+| Hanzo Marketplace | `assets/projects/hanzo-marketplace.png` |
+| CrossLife LMS | `assets/projects/crosslife-lms.png` |
+| Digital Town Square | `assets/projects/digital-town-square.png` |
+| Bossify Academy | `assets/projects/bossify-academy.png` |
 
-### Update description, tech, or links
+### Update copy or links
 
-In `README.md` → **Featured Projects**, find the project `<td>` and edit:
+In **Featured Software Projects**, edit the matching `<td>`:
 
 - Summary paragraph
-- Tech badges (`img.shields.io`)
+- Tech badges
 - Live Demo `href`
-- GitHub `href`
+- Source `href`
 
-### Add a new project card
+### Add a software project
 
-1. Add `assets/project-images/your-project.png`.
-2. Copy an existing `<td>...</td>` block.
-3. Paste into a table row (2 cards per row works best).
-4. Update image `src`, title, description, badges, and links.
-
----
-
-## 3. Updating GitHub stats
-
-All stats widgets use username **`PHENOMVALENCE`**. Change it only if the GitHub username changes.
-
-### GitHub Stats & Top Languages
-
-Service: [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-
-```text
-https://github-readme-stats.vercel.app/api?username=PHENOMVALENCE&...
-https://github-readme-stats.vercel.app/api/top-langs/?username=PHENOMVALENCE&...
-```
-
-Useful flags:
-
-| Param | Effect |
-|-------|--------|
-| `count_private=true` | Include private commits (needs PAT on some hosts) |
-| `include_all_commits=true` | Lifetime commits |
-| `langs_count=8` | Number of languages |
-| `bg_color` / `title_color` / `text_color` | Theme |
-
-### Streak
-
-Service: [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-```text
-https://streak-stats.demolab.com?user=PHENOMVALENCE&...
-```
-
-### Activity graph
-
-Service: [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-```text
-https://github-readme-activity-graph.vercel.app/graph?username=PHENOMVALENCE&...
-```
-
-### Productivity cards
-
-Service: [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-```text
-https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PHENOMVALENCE&theme=github_dark
-https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PHENOMVALENCE&theme=github_dark&utcOffset=3
-```
-
-`utcOffset=3` matches East Africa Time (EAT). Adjust if you relocate.
-
-### Profile views / visitors
-
-- Views: `https://komarev.com/ghpvc/?username=PHENOMVALENCE&...`
-- Visitors: `https://visitor-badge.laobi.icu/badge?page_id=PHENOMVALENCE.PHENOMVALENCE&...`
-
-Followers and stars use Shields.io GitHub endpoints and update automatically.
+1. Add `assets/projects/your-project.png`.
+2. Copy an existing project `<td>`.
+3. Place it in a table row (2 columns preferred).
+4. Update image, title, summary, badges, and links.
 
 ---
 
-## 4. Changing colors and banners
+## 3. Updating AI projects
 
-### Design tokens (current theme)
+### Existing AI cards
 
-| Token | Value | Usage |
-|-------|-------|-------|
-| Primary accent | `#58A6FF` | Badges, stats titles, typing SVG |
-| Deep accent | `#1f6feb` | Gradients, graph lines |
-| Background | `#0d1117` | Stats cards, dark panels |
-| Text | `#c9d1d9` | Stats body text |
-| Muted | `#8b949e` | Secondary labels |
+| Project | Asset | Repo (if public) |
+|---------|-------|------------------|
+| News Category Classification | `assets/ai/news-classification.png` | Add link when published |
+| Face Emotion Recognition | `assets/ai/face-emotion.png` | `Facial-Emotion-Recognition` |
+| Electricity Consumption Prediction | `assets/ai/electricity-prediction.png` | `ElectricityConsumption` |
 
-Search-and-replace these hex values across `README.md` when rebranding.
+Edit the AI table cell for pipeline details (tokenization, CNN, feature engineering, etc.).
 
-### Typing animation
+### Promote a “Future AI” project
 
-Edit the `lines=` query on the Typing SVG URL:
+1. Create `assets/ai/spam-detection.png` (example).
+2. Copy an AI card `<td>` into the three-column table (or add a new row).
+3. Remove it from the **Future AI Projects** badge row.
+4. Link the GitHub repository.
 
-```text
-https://readme-typing-svg.demolab.com?font=Fira+Code&...&lines=Line+One;Line+Two;Line+Three
-```
+### Future ideas currently listed
 
-Use `+` for spaces and `%26` for `&`.
-
-### Hero banner
-
-1. Design a wide banner (~**1280×420**, under **500KB**).
-2. Replace `assets/banner.png`.
-3. Optional: use [capsule-render](https://github.com/kyechan99/capsule-render) instead of a local file.
-
-### Profile photo
-
-Replace `assets/profile.png` with a square headshot (400×400 recommended).
-
-### Footer wave
-
-```text
-https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58A6FF&height=120&section=footer
-```
-
-Adjust the `color=` gradient stops to match a new palette.
+- Spam Detection (NLP)
+- Crop Recommendation (ML)
+- Recommendation Systems (Deep Learning)
 
 ---
 
-## 5. Social links & contact
+## 4. Adding future repositories
 
-Update every occurrence of these URLs in `README.md` (Hero + Connect sections):
+1. Push the new repo under `PHENOMVALENCE`.
+2. Decide category:
+   - **Web / API** → Featured Software Projects
+   - **ML / NLP / CV** → AI & Machine Learning
+3. Add screenshot under `assets/projects/` or `assets/ai/`.
+4. Add a card in `README.md`.
+5. Optionally append a ✔ row under **Development Milestones**.
+6. Update Live Demo / Source URLs.
 
-| Channel | Current |
-|---------|---------|
+Keep the profile engineer-first: only ship technical work here.
+
+---
+
+## 5. Activity, commits & stats widgets
+
+Username everywhere: **`PHENOMVALENCE`**.
+
+| Widget | Service |
+|--------|---------|
+| Contribution graph | `github-readme-activity-graph.vercel.app` |
+| Snake | `raw.githubusercontent.com/.../output/github-contribution-grid-snake-dark.svg` |
+| Heatmap / commit calendar | `ghchart.rshah.org/58A6FF/PHENOMVALENCE` |
+| Streak | `streak-stats.demolab.com` |
+| Stats / languages | `github-readme-stats.vercel.app` |
+| Summary cards | `github-profile-summary-cards.vercel.app` |
+
+### Snake setup
+
+Workflow: `.github/workflows/snake.yml`
+
+1. Enable GitHub Actions on this repo.
+2. Run **Generate Contribution Snake** (or wait for the daily cron).
+3. Image publishes to the `output` branch.
+
+### Theme tokens
+
+| Token | Hex |
+|-------|-----|
+| Accent | `#58A6FF` |
+| Deep | `#1f6feb` |
+| Background | `#0d1117` |
+| Text | `#c9d1d9` |
+| AI accent | `#A371F7` |
+
+Search-replace these in `README.md` to rebrand.
+
+### Banner & avatar
+
+- Replace `assets/banner.png` (~1280×420, keep under ~100KB if possible).
+- Replace `assets/profile.png` (square headshot).
+
+### Typing SVG
+
+Edit `lines=` on the Typing SVG URL (spaces → `+`, `&` → `%26`).
+
+---
+
+## 6. Connect links
+
+| Channel | URL |
+|---------|-----|
 | Portfolio | https://valencemwigani.tech |
+| GitHub | https://github.com/PHENOMVALENCE |
 | LinkedIn | https://www.linkedin.com/in/valence-mwigani-a8444031b |
 | Email | mailto:mwiganivalence@gmail.com |
-| GitHub | https://github.com/PHENOMVALENCE |
-| Twitter / X | placeholder — set your handle |
-| Instagram | placeholder — set your handle |
-| Phone | +255 753 775 184 |
+
+Update both Hero and Connect when links change.
 
 ---
 
-## 6. Certifications
-
-When you earn a credential:
-
-1. Change status from `🔜 Upcoming` to `✅ Earned`.
-2. Wrap the provider badge or row title in a link to the credential URL.
-3. Optionally add issue/expiry dates in a new column.
-
-Cisco already notes CCNA foundation / in progress from DIT training.
-
----
-
-## 7. Contribution snake
-
-Workflow file: `.github/workflows/snake.yml`
-
-1. Push to `main` (or run **Actions → Generate Contribution Snake → Run workflow**).
-2. Wait for the job to publish SVGs to the `output` branch.
-3. The README already points to:
-
-```text
-https://raw.githubusercontent.com/PHENOMVALENCE/PHENOMVALENCE/output/github-contribution-grid-snake-dark.svg
-```
-
-If the image 404s until the first run completes, that is expected. Re-run the workflow after enabling Actions on the repo.
-
----
-
-## 8. File map
+## 7. File map
 
 ```text
 PHENOMVALENCE/
-├── README.md                      # Profile (rendered by GitHub)
-├── CHANGELOG.md                   # Redesign history
+├── README.md
+├── CHANGELOG.md
 ├── assets/
 │   ├── banner.png
 │   ├── profile.png
-│   ├── project-images/
+│   ├── projects/
+│   ├── ai/
+│   ├── icons/
 │   └── README.md
 ├── docs/
-│   └── PROFILE_GUIDE.md           # This file
-└── .github/
-    └── workflows/
-        └── snake.yml              # Contribution snake generator
+│   └── PROFILE_GUIDE.md
+└── .github/workflows/snake.yml
 ```
 
-### Quick checklist after edits
+### Pre-push checklist
 
-- [ ] Relative asset paths still start with `./assets/`
-- [ ] No duplicate social badges
-- [ ] Stats username is still `PHENOMVALENCE`
-- [ ] Project Live Demo / GitHub links are correct
-- [ ] Images optimized (banner &lt; ~500KB)
-- [ ] Preview on GitHub after push (dark mode + light mode)
+- [ ] Only software + AI content (no org/leadership filler)
+- [ ] Relative `./assets/` paths
+- [ ] Project and AI screenshots updated
+- [ ] Repo / demo links correct
+- [ ] Stats username is `PHENOMVALENCE`
+- [ ] Snake workflow run at least once after push
