@@ -28,7 +28,7 @@ The result should feel like an engineer's portfolio, not a badge collection or a
 3. Use screenshots for project proof; use badges only for actions or compact metadata.
 4. Keep no more than two adjacent columns for software projects and three for compact AI projects.
 5. Prefer native Markdown headings, prose, code tags, and tables over decorative remote images.
-6. Do not repeat the same activity metric in multiple sections.
+6. Use only the GitHub-hosted contribution snake for visual activity; link to GitHub's native overview for detailed metrics.
 7. Avoid unverifiable counters such as manually maintained repository or commit totals.
 8. Keep one accent color. Technology logo colors may appear only inside project screenshots or existing assets.
 9. Maintain meaningful alt text for every image.
@@ -42,6 +42,7 @@ The result should feel like an engineer's portfolio, not a badge collection or a
 - Grid, glow, orbit, and signal animations move slowly and never obstruct text.
 - The remote typing line rotates through three evidence-based engineering themes.
 - The contribution snake appears once as a playful closing signal, not as the profile's main content.
+- Do not embed Vercel-hosted activity graphs or statistics cards; they have returned HTTP 402/503 and leave broken images in the profile.
 - Avoid flashing, rapid scaling, continuous page-wide movement, or multiple competing accent colors.
 
 ## Content voice
