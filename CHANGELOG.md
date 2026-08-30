@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-08-30
+
+### Redesigned
+
+- Rebuilt the profile around a precise, editorial developer portfolio direction.
+- Moved selected software and AI work ahead of technology and activity metrics.
+- Replaced repeated badges and statistics with compact, evidence-led sections.
+- Added `docs/PROFILE_DESIGN.md` to keep future profile changes visually consistent.
+
 Notable changes to the **PHENOMVALENCE** GitHub profile README.
 
 ---

@@ -4,24 +4,20 @@ Maintenance guide for the **PHENOMVALENCE** profile README. Positioning: active 
 
 ---
 
+Design rules live in [`PROFILE_DESIGN.md`](PROFILE_DESIGN.md). Read that file before changing layout, colors, badges, or remote widgets.
+
 ## 1. Section overview
 
 | # | Section | What it communicates | Edit location |
 |---|---------|----------------------|---------------|
-| 1 | **Hero** | Identity, roles, activity counters | Top of `README.md` |
-| 2 | **About Me** | Engineering + AI positioning | About table + paragraph |
-| 3 | **Currently Building** | Active technical focus | Focus table |
-| 4 | **Tech Stack** | Skills by category | Shield groups in `<details>` |
-| 5 | **Featured Software Projects** | Production web systems | Project table + `assets/projects/` |
-| 6 | **AI & Machine Learning** | NLP / CV / regression work | AI table + `assets/ai/` |
-| 7 | **Development Activity** | Graphs, snake, streak, languages | Stats image URLs |
-| 8 | **Development Milestones** | Engineering timeline | ASCII timeline + checklist |
-| 9 | **Commit History** | Consistency & shipping habit | Heatmap, streak, repo links |
-| 10 | **GitHub Statistics** | Aggregate metrics | Stats cards + badges |
-| 11 | **Connect** | Professional contact | Shield links |
-| 12 | **Quote** | Soft close | Quote line |
-
-HTML comments (`<!-- SECTION N -->`) mark each block.
+| 1 | **Hero** | Identity, positioning, and contact links | Top of `README.md` |
+| 2 | **What I build** | Engineering + AI positioning | Intro and capability table |
+| 3 | **Selected work** | Production web systems | Project table + `assets/projects/` |
+| 4 | **Applied AI** | NLP / CV / regression work | AI table + `assets/ai/` |
+| 5 | **Technical toolkit** | Skills by category | Compact four-column table |
+| 6 | **Engineering trajectory** | Evidence-led development timeline | Text timeline |
+| 7 | **GitHub activity** | Contribution graph and core statistics | Two widget providers |
+| 8 | **Contact** | Collaboration call to action | Closing block |
 
 **Do not add:** business development, AIESEC, leadership/org roles, or non-engineering projects.
 
@@ -72,18 +68,12 @@ In **Featured Software Projects**, edit the matching `<td>`:
 
 Edit the AI table cell for pipeline details (tokenization, CNN, feature engineering, etc.).
 
-### Promote a “Future AI” project
+### Add an AI project
 
 1. Create `assets/ai/spam-detection.png` (example).
 2. Copy an AI card `<td>` into the three-column table (or add a new row).
-3. Remove it from the **Future AI Projects** badge row.
-4. Link the GitHub repository.
-
-### Future ideas currently listed
-
-- Spam Detection (NLP)
-- Crop Recommendation (ML)
-- Recommendation Systems (Deep Learning)
+3. Add a concise description of the implemented pipeline.
+4. Link the GitHub repository when it is public.
 
 ---
 
@@ -91,31 +81,29 @@ Edit the AI table cell for pipeline details (tokenization, CNN, feature engineer
 
 1. Push the new repo under `PHENOMVALENCE`.
 2. Decide category:
-   - **Web / API** → Featured Software Projects
-   - **ML / NLP / CV** → AI & Machine Learning
+   - **Web / API** → Selected work
+   - **ML / NLP / CV** → Applied AI
 3. Add screenshot under `assets/projects/` or `assets/ai/`.
 4. Add a card in `README.md`.
-5. Optionally append a ✔ row under **Development Milestones**.
-6. Update Live Demo / Source URLs.
+5. Add a dated entry to **Engineering trajectory** only when it represents a meaningful career milestone.
+6. Update project and repository URLs.
 
 Keep the profile engineer-first: only ship technical work here.
 
 ---
 
-## 5. Activity, commits & stats widgets
+## 5. Activity and statistics
 
 Username everywhere: **`PHENOMVALENCE`**.
 
 | Widget | Service |
 |--------|---------|
 | Contribution graph | `github-readme-activity-graph.vercel.app` |
-| Snake | `raw.githubusercontent.com/.../output/github-contribution-grid-snake-dark.svg` |
-| Heatmap / commit calendar | `ghchart.rshah.org/58A6FF/PHENOMVALENCE` |
-| Streak | `streak-stats.demolab.com` |
 | Stats / languages | `github-readme-stats.vercel.app` |
-| Summary cards | `github-profile-summary-cards.vercel.app` |
 
-### Snake setup
+Keep the activity section limited to these three images. Do not repeat graphs, streaks, heatmaps, counters, or language cards elsewhere in the profile.
+
+### Optional snake workflow
 
 Workflow: `.github/workflows/snake.yml`
 
@@ -123,15 +111,17 @@ Workflow: `.github/workflows/snake.yml`
 2. Run **Generate Contribution Snake** (or wait for the daily cron).
 3. Image publishes to the `output` branch.
 
+The workflow remains available, but the snake is intentionally not displayed in the current profile design.
+
 ### Theme tokens
 
 | Token | Hex |
 |-------|-----|
-| Accent | `#58A6FF` |
-| Deep | `#1f6feb` |
-| Background | `#0d1117` |
-| Text | `#c9d1d9` |
-| AI accent | `#A371F7` |
+| Accent | `#0969DA` |
+| Accent soft | `#DDF4FF` |
+| Ink | `#18181B` |
+| Text | `#57606A` |
+| Background | `#FFFFFF` / transparent |
 
 Search-replace these in `README.md` to rebrand.
 
@@ -139,12 +129,6 @@ Search-replace these in `README.md` to rebrand.
 
 - Replace `assets/banner.png` (~1280×420, keep under ~100KB if possible).
 - Replace `assets/profile.png` (square headshot).
-
-### Typing SVG
-
-Edit `lines=` on the Typing SVG URL (spaces → `+`, `&` → `%26`).
-
----
 
 ## 6. Connect links
 
@@ -173,6 +157,7 @@ PHENOMVALENCE/
 │   ├── icons/
 │   └── README.md
 ├── docs/
+│   ├── PROFILE_DESIGN.md
 │   └── PROFILE_GUIDE.md
 └── .github/workflows/snake.yml
 ```
@@ -184,4 +169,4 @@ PHENOMVALENCE/
 - [ ] Project and AI screenshots updated
 - [ ] Repo / demo links correct
 - [ ] Stats username is `PHENOMVALENCE`
-- [ ] Snake workflow run at least once after push
+- [ ] No duplicate activity widgets or manually maintained counters
