@@ -170,14 +170,13 @@ I turn product requirements into maintainable software: responsive interfaces, s
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PHENOMVALENCE&bg_color=ffffff&color=57606a&line=0969da&point=0969da&area=true&area_color=ddf4ff&hide_border=true&custom_title=Contribution%20activity" alt="Valence Mwigani contribution activity" width="100%" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=PHENOMVALENCE&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=0969da&text_color=57606a&icon_color=0969da&ring_color=0969da" alt="Valence Mwigani GitHub statistics" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHENOMVALENCE&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=0969da&text_color=57606a" alt="Most-used languages" height="170" />
-
-<br />
-
 <img src="https://raw.githubusercontent.com/PHENOMVALENCE/PHENOMVALENCE/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution trail" width="100%" />
+
+<br /><br />
+
+<a href="https://github.com/PHENOMVALENCE?tab=overview"><strong>Contribution overview</strong></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/PHENOMVALENCE?tab=repositories&sort=updated"><strong>Recently updated repositories</strong></a>
 
 </div>
 

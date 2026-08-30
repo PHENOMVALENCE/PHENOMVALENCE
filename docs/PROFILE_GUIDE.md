@@ -92,16 +92,15 @@ Keep the profile engineer-first: only ship technical work here.
 
 ---
 
-## 5. Activity and statistics
+## 5. Activity
 
 Username everywhere: **`PHENOMVALENCE`**.
 
 | Widget | Service |
 |--------|---------|
-| Contribution graph | `github-readme-activity-graph.vercel.app` |
-| Stats / languages | `github-readme-stats.vercel.app` |
+| Contribution snake | `raw.githubusercontent.com/PHENOMVALENCE/PHENOMVALENCE/output/` |
 
-Keep the activity section limited to these three images. Do not repeat graphs, streaks, heatmaps, counters, or language cards elsewhere in the profile.
+Keep the activity section limited to the GitHub-hosted contribution snake and native GitHub profile links. Do not add third-party activity graphs, statistics cards, heatmaps, counters, or language cards without first checking that the endpoints return HTTP 200 reliably.
 
 ### Optional snake workflow
 
@@ -111,7 +110,7 @@ Workflow: `.github/workflows/snake.yml`
 2. Run **Generate Contribution Snake** (or wait for the daily cron).
 3. Image publishes to the `output` branch.
 
-The workflow remains available, but the snake is intentionally not displayed in the current profile design.
+The snake is displayed in the current profile and depends on this workflow publishing the SVG to the `output` branch.
 
 ### Theme tokens
 
@@ -170,5 +169,5 @@ PHENOMVALENCE/
 - [ ] Relative `./assets/` paths
 - [ ] Project and AI screenshots updated
 - [ ] Repo / demo links correct
-- [ ] Stats username is `PHENOMVALENCE`
+- [ ] Contribution snake username is `PHENOMVALENCE`
 - [ ] No duplicate activity widgets or manually maintained counters

@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-08-30 — Activity reliability fix
+
+### Fixed
+
+- Removed the activity graph endpoint returning HTTP 402.
+- Removed GitHub statistics and language-card endpoints returning HTTP 503.
+- Kept the working GitHub-hosted contribution animation and added native GitHub activity links.
+
 ## 2026-08-30 — Motion pass
 
 ### Enhanced
