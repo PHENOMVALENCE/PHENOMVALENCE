@@ -7,13 +7,15 @@
 
 <div align="center">
 
-<img src="./assets/banner.png" alt="Valence Mwigani — Software Engineer and AI/ML Developer" width="100%" />
+<img src="./assets/hero.svg" alt="Animated technical banner for Valence Mwigani — Software Engineer and AI/ML Developer" width="100%" />
 
 <br />
 
 <h1>Valence Mwigani</h1>
 
 <h3>Software engineer building dependable web platforms, APIs, and applied AI systems.</h3>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=900&color=0969DA&center=true&vCenter=true&repeat=true&width=650&height=28&lines=Designing+systems+that+stay+understandable;Shipping+secure+APIs+and+product+workflows;Turning+data+into+useful+intelligent+software" alt="Animated focus: systems, APIs, and intelligent software" /></a>
 
 <p>
   Computer Engineering student at the Dar es Salaam Institute of Technology.<br />
@@ -33,6 +35,8 @@
 
 ## What I build
 
+`01 / ENGINEERING PROFILE`
+
 I turn product requirements into maintainable software: responsive interfaces, secure backend workflows, integration-ready APIs, and practical machine-learning pipelines. My work spans Laravel and Next.js products, Spring Boot services, and applied NLP and computer-vision experiments.
 
 | Product engineering | Applied AI |
@@ -44,6 +48,8 @@ I turn product requirements into maintainable software: responsive interfaces, s
 > I care about clear architecture, useful interfaces, measurable outcomes, and software that remains understandable after it ships.
 
 ## Selected work
+
+`02 / SHIPPED SYSTEMS`
 
 <table>
   <tr>
@@ -82,6 +88,8 @@ I turn product requirements into maintainable software: responsive interfaces, s
 
 ## Applied AI
 
+`03 / INTELLIGENT SOFTWARE`
+
 <table>
   <tr>
     <td width="33.33%" valign="top">
@@ -108,6 +116,8 @@ I turn product requirements into maintainable software: responsive interfaces, s
 </table>
 
 ## Technical toolkit
+
+`04 / WORKING SET`
 
 <table>
   <tr>
@@ -140,6 +150,8 @@ I turn product requirements into maintainable software: responsive interfaces, s
 
 ## Engineering trajectory
 
+`05 / TIMELINE`
+
 ```text
 2022  Began shipping PHP and MySQL applications
   │
@@ -154,12 +166,18 @@ I turn product requirements into maintainable software: responsive interfaces, s
 
 ## GitHub activity
 
+`06 / OPEN-SOURCE SIGNAL`
+
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PHENOMVALENCE&bg_color=ffffff&color=57606a&line=0969da&point=0969da&area=true&area_color=ddf4ff&hide_border=true&custom_title=Contribution%20activity" alt="Valence Mwigani contribution activity" width="100%" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=PHENOMVALENCE&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=0969da&text_color=57606a&icon_color=0969da&ring_color=0969da" alt="Valence Mwigani GitHub statistics" height="170" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHENOMVALENCE&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=0969da&text_color=57606a" alt="Most-used languages" height="170" />
+
+<br />
+
+<img src="https://raw.githubusercontent.com/PHENOMVALENCE/PHENOMVALENCE/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution trail" width="100%" />
 
 </div>
 

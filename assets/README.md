@@ -4,7 +4,8 @@ Media used by `README.md`. Always use relative paths (`./assets/...`).
 
 ```text
 assets/
-├── banner.png          # Hero banner (~1280×420)
+├── hero.svg            # Animated profile hero (1280×420)
+├── banner.png          # Previous static hero / fallback source
 ├── profile.png         # Avatar / headshot (square)
 ├── projects/           # Software project screenshots
 │   ├── hanzo-marketplace.png

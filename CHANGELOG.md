@@ -1,5 +1,15 @@
 # Changelog
 
+## 2026-08-30 — Motion pass
+
+### Enhanced
+
+- Added a custom animated SVG hero with a technical grid, ambient light, system-status panel, and reduced-motion support.
+- Added a restrained rotating engineering-focus line and animated contribution trail.
+- Introduced editorial section indices for stronger visual rhythm and navigation.
+- Expanded the profile design guide with cinematic motion rules inspired by the Runway analysis.
+- Added a repository instruction requiring verified implementations to be committed and submitted through a draft pull request.
+
 ## 2026-08-30
 
 ### Redesigned
