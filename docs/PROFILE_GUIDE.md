@@ -125,9 +125,10 @@ The workflow remains available, but the snake is intentionally not displayed in 
 
 Search-replace these in `README.md` to rebrand.
 
-### Banner & avatar
+### Hero and avatar
 
-- Replace `assets/banner.png` (~1280×420, keep under ~100KB if possible).
+- Edit `assets/hero.svg` for the animated hero. Preserve its `1280×420` view box, accessible title/description, static first frame, and reduced-motion rule.
+- `assets/banner.png` is retained as the previous static banner and fallback source.
 - Replace `assets/profile.png` (square headshot).
 
 ## 6. Connect links
@@ -150,6 +151,7 @@ PHENOMVALENCE/
 ├── README.md
 ├── CHANGELOG.md
 ├── assets/
+│   ├── hero.svg
 │   ├── banner.png
 │   ├── profile.png
 │   ├── projects/

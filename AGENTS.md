@@ -20,6 +20,18 @@ All Codex changes must be submitted through:
 
 `codex/master-changes` → `main`
 
+## Required completion workflow
+
+After every completed implementation, Codex must:
+
+1. Run the applicable validation checks.
+2. Commit the verified changes on `codex/master-changes` using Conventional Commits.
+3. Push only `codex/master-changes` to `origin`.
+4. Create a new draft pull request to `main`, or update the existing open draft pull request for the branch.
+5. Report the commit and pull request URL to the user.
+
+Do not leave completed implementation work uncommitted unless validation fails or the user explicitly asks to keep the changes local.
+
 ## Before starting work
 
 Before making changes:
