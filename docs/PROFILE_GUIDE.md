@@ -100,8 +100,9 @@ Username everywhere: **`PHENOMVALENCE`**.
 |--------|---------|
 | Contribution graph | `github-readme-activity-graph.vercel.app` |
 | Stats / languages | `github-readme-stats.vercel.app` |
+| Tanzania committer ranking | `user-badge.committers.top` (`tanzania_private` list, links to [committers.top/tanzania_private](https://committers.top/tanzania_private)) |
 
-Keep the activity section limited to these three images. Do not repeat graphs, streaks, heatmaps, counters, or language cards elsewhere in the profile.
+Keep the activity section limited to these images plus the snake trail and the committers.top badge. Do not repeat graphs, streaks, heatmaps, counters, or language cards elsewhere in the profile.
 
 ### Optional snake workflow
 

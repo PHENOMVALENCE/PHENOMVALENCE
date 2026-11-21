@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-21
+
+### Added
+
+- Added the committers.top badge showing the profile's rank among the most active GitHub users in Tanzania (private contributions included).
+
 ## 2026-08-30 — Motion pass
 
 ### Enhanced
