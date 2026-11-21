@@ -179,6 +179,10 @@ I turn product requirements into maintainable software: responsive interfaces, s
 
 <img src="https://raw.githubusercontent.com/PHENOMVALENCE/PHENOMVALENCE/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution trail" width="100%" />
 
+<br />
+
+<a href="https://user-badge.committers.top/tanzania_private/PHENOMVALENCE"><img src="https://user-badge.committers.top/tanzania_private/PHENOMVALENCE.svg" alt="committers.top ranking: most active GitHub users in Tanzania, private contributions included" /></a>
+
 </div>
 
 ---
